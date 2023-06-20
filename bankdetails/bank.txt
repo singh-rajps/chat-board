@@ -1,0 +1,10 @@
+Bank Entity : Attributes of Bank Entity are Bank Name, Code and Address. 
+Code is Primary Key for Bank Entity.
+Customer Entity : Attributes of Customer Entity are Customer_id, Name, Phone Number and Address. 
+Customer_id is Primary Key for Customer Entity.
+Branch Entity : Attributes of Branch Entity are Branch_id, Name and Address. 
+Branch_id is Primary Key for Branch Entity.
+Account Entity : Attributes of Account Entity are Account_number, Account_Type and Balance. 
+Account_number is Primary Key for Account Entity.
+Loan Entity : Attributes of Loan Entity are Loan_id, Loan_Type and Amount. 
+Loan_id is Primary Key for Loan Entity.
